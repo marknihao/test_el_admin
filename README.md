@@ -235,3 +235,19 @@ See [CONTRIBUTING.md](https://github.com/Armour/vue-typescript-admin-template/bl
 ## License
 
 [MIT License](https://github.com/Armour/vue-typescript-admin-template/blob/master/LICENSE)
+
+## 常用git 命令
+### 创建版本库
+___
+git init
+___
+
+### 用命令git add告诉Git，把文件添加到仓库
+___
+ git add name
+___
+### git commit告诉Git，把文件提交到仓库
+
+___
+git commit -m "wrote a readme file"
+___
